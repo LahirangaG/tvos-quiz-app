@@ -63,4 +63,10 @@
 
 ---
 
+## Contact  
+If you have any questions or feedback, feel free to reach out:  
+📧 **[YourEmail@example.com](mailto:YourEmail@example.com)**  
+
+---
+
 **Let’s make learning fun with Quizland!**
