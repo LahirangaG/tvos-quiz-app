@@ -65,7 +65,7 @@
 
 ## Contact  
 If you have any questions or feedback, feel free to reach out:  
-📧 **[lahiranga.contact@gmail.com](mailto:YourEmail@example.com)**  
+📧 **[lahiranga.contact@gmail.com](mailto:lahiranga.contact@gmail.com)**  
 
 ---
 
